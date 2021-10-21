@@ -6,6 +6,6 @@ package homework;
 public class Hello {
     public static void main(String[] args){
         System.out.println("hello git3");
-        System.out.println("master1");
+        System.out.println("master12");
     }
 }
